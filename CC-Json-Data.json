@@ -1,0 +1,71 @@
+{
+  "batch": {
+    "id": "11262025",
+    "date": "11/26/2025",
+    "total_records": 5,
+    "total_iterations": 1,
+    "iterated_sequence": 1
+  },
+  "data": [
+    {
+      "EMPL_ID": "281341",
+      "BALANCE_DATE": "11/19/2025",
+      "SCHED_TYPE": "WEEK",
+      "INTERVAL_TYPE": "VC",
+      "START_TIME": "01/01/1990 08:00",
+      "END_TIME": "01/01/1990 08:30",
+      "JOB_CODE": "406122",
+      "SHIFT_INDICATOR": "D",
+      "FML_FLAG": null,
+      "ROW_INDEX": 1
+    },
+    {
+      "EMPL_ID": "281341",
+      "BALANCE_DATE": "11/19/2025",
+      "SCHED_TYPE": "WEEK",
+      "INTERVAL_TYPE": "DTW",
+      "START_TIME": "01/01/1990 08:30",
+      "END_TIME": "01/01/1990 12:00",
+      "JOB_CODE": "406122",
+      "SHIFT_INDICATOR": "D",
+      "FML_FLAG": null,
+      "ROW_INDEX": 2
+    },
+    {
+      "EMPL_ID": "281341",
+      "BALANCE_DATE": "11/19/2025",
+      "SCHED_TYPE": "WEEK",
+      "INTERVAL_TYPE": "VC",
+      "START_TIME": "01/01/1990 08:30",
+      "END_TIME": "01/01/1990 12:00",
+      "JOB_CODE": "406122",
+      "SHIFT_INDICATOR": "D",
+      "FML_FLAG": null,
+      "ROW_INDEX": 3
+    },
+    {
+      "EMPL_ID": "281341",
+      "BALANCE_DATE": "11/19/2025",
+      "SCHED_TYPE": "WEEK",
+      "INTERVAL_TYPE": "VC",
+      "START_TIME": "01/01/1990 12:00",
+      "END_TIME": "01/01/1990 16:30",
+      "JOB_CODE": "406122",
+      "SHIFT_INDICATOR": "D",
+      "FML_FLAG": null,
+      "ROW_INDEX": 4
+    },
+    {
+      "EMPL_ID": "281341",
+      "BALANCE_DATE": "11/19/2025",
+      "SCHED_TYPE": "WEEK",
+      "INTERVAL_TYPE": "DTW",
+      "START_TIME": "01/01/1990 12:00",
+      "END_TIME": "01/01/1990 16:30",
+      "JOB_CODE": "406122",
+      "SHIFT_INDICATOR": "D",
+      "FML_FLAG": null,
+      "ROW_INDEX": 5
+    }
+  ]
+}
